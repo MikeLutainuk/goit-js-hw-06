@@ -18,7 +18,7 @@ const CategoryName = titlesEl[i].textContent;
 const ElementsQuantity = itemsEl[i].children.length;
 
 console.log(`Category: ${CategoryName}`); 
-console.log(`Elements: ${ElementsQuantity}`); 
+console.log(`Elements: ${ElementsQuantity}`);  
 };
 
 
